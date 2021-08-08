@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "http://52.66.250.19:9980/mithuntechnologies/repository/nodejs-mss-repo/"
+    "registry": "http://34.131.71.42:8081/repository/npm-repo/"
   "author": "Laszlo Leber (Codeching)",
   "license": "ISC",
   "dependencies": {
